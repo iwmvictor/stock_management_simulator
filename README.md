@@ -1,3 +1,9 @@
+## ISINGIZWE MUNEZERO VICTOR - 221012557
+### UNIVERSITY OF RWANDA - KIST
+### COMPUTER AND SOFTWARE ENGINEERING
+### *DISTRIBUTED COMPUTING ASSIGNMENT*
+
+
 # Stock Management Simulator with RPC
 
 ## Introduction to RPC as a Middleware Service
@@ -33,11 +39,11 @@ stock_management_simulator/
 |-- README.md
 ```
 
-### Operation of System
+## Operation of System
 
 **1 - Server Operation:**
-- The server initializes stock data and registers RPC methods (get_stock_prices, buy_stock, sell_stock).
-- It listens on a specified port (e.g., 8000) to handle incoming RPC requests.
+- The server initializes stock data and registers RPC methods *(get_stock_prices, buy_stock, sell_stock)*.
+- It listens on a specified port *(e.g., 8000)* to handle incoming RPC requests.
 
 **2 - Client Operation:**
 - The client connects to the server using RPC.
@@ -62,19 +68,22 @@ gRPC supports multiple programming languages, allowing components written in dif
 ### Screenshots
 
 **Directory Setup**
-![directory setup](images/dir_setup.png "Directory Setup")
+![directory setup](images/directory.png "Directory Setup")
 
 **Server Running**
-![server running](images/server_running.gif "Server Running")
+![server running](images/server.png "Server Running")
 
 **Client Running**
-![client running](images/client_running.gif "Client Running")
+![client running](images/client.png "Client Running")
 
 **Server Code Snippet**
-![Server Codes](images/client_running.gif "Client Running")
+![Server Codes](images/stock-server.png "Server Code Snippet")
 
 **Client Code Snippet**
-![Client Codes](images/client_running.gif "Client Running")
+![Client Codes](images/stock-client.png "Client Code Snippet")
+
+**Data Code Snippet**
+![Stock Data Codes](images/stock-data.png "Data Code Snippet")
 
 
 ## Getting Started
@@ -100,3 +109,8 @@ python stock_server.py
 cd client
 python stock_client.py
 ```
+
+
+### Project File available Here
+
+![Get the file on Github](https://github.com/iwmvictor/stock_management_simulator.git)
