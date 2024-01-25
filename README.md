@@ -1,8 +1,3 @@
-## ISINGIZWE MUNEZERO VICTOR - 221012557
-### UNIVERSITY OF RWANDA - KIST
-### COMPUTER AND SOFTWARE ENGINEERING
-### *DISTRIBUTED COMPUTING ASSIGNMENT*</s>
-
 
 # Stock Management Simulator with RPC
 
@@ -110,7 +105,9 @@ cd client
 python stock_client.py
 ```
 
-
-### Project File available Here
-
-![Get the file on Github](https://github.com/iwmvictor/stock_management_simulator.git)
+## Reach out to me
+**- Email:** ![isingizwemunezerovictor5@gmail.com](mailto:isingizwemunezerovictor5@gmail.com)
+**- Instagram:** ![Iwmvictor](https://instagram.com/iwmvictor)
+**- Twitter:** ![Iwmvictor](https://twitter.com/iwmvictor)
+**- TikTok:** ![Iwmvictor](https://tiktok.com/@iwmvictor)
+**- Rumble:** ![Iwmvictor](https://rumble.com/user/iwmvictor)
